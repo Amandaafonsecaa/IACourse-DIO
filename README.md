@@ -1,51 +1,57 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🎭 Natural ou Fake Natty? — Desafio DIO
 
-## 🚀 Introdução
+> Projeto desenvolvido no **Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas"** da DIO.  
+> Aqui explorei o uso de **IA Generativa** para criar conteúdo criativo e reflexivo sobre o impacto da tecnologia na criação de mídias.
 
-> Woooow! Look at this 👀
+---
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 📌 Sobre o Projeto
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Este repositório contém dois materiais criados como parte do desafio:
 
-### Objetivos
+- 🧠 **Mapa Mental** — resumo visual do conteúdo estudado.
+- 🎙 **Podcast** — episódio curto com minha visão sobre o tema, roteirizado a partir do meu resumo do curso.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+O objetivo foi experimentar a criação de conteúdo **"quase real"** com o auxílio de ferramentas de IA, trazendo elementos de análise crítica e criatividade.
 
-### Template
+---
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 📂 Estrutura do Repositório
+┣ 📁 mapa-mental
+┃ ┗ 🗎 [Arquivo do mapa mental]
+┣ 📁 podcast
+┃ ┗ 🗎 [Arquivo de áudio]
+┗ README.md
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **/mapa-mental/** → contém o mapa mental gerado com base no curso.  
+- **/podcast/** → contém o arquivo de áudio final do podcast.  
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+---
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🔗 Acesse os Materiais
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- 🧠 [Ver Mapa Mental](./mapa-mental)  
+- 🎙 [Ouvir Podcast](./podcast)  
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 🛠 Ferramentas Utilizadas
 
-## Links Interessantes
+- **NotebookLM** → para organizar e sintetizar informações do curso.  
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+---
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💡 Insights
+
+Este projeto reforçou como a **IA Generativa** pode ser usada como **co-criadora**, não apenas automatizando tarefas, mas também ajudando a explorar novas ideias e formatos de mídia.
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT — sinta-se à vontade para explorar, adaptar e compartilhar.
+
+---
+
+
